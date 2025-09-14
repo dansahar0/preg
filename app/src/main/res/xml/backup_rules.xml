@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- TODO: Add domain-specific rules for backing up data.
+    Note: This file is used by the auto-backup feature of Android.
+    You can use it to prevent specific files or directories from being backed up.
+    For more information, see the docs:
+    https://developer.android.com/guide/topics/data/autobackup -->
+</full-backup-content>
